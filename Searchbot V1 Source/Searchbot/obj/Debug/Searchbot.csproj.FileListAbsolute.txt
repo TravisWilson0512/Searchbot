@@ -1,0 +1,10 @@
+C:\Users\travi\source\repos\Searchbot\Searchbot\bin\Debug\Searchbot.exe.config
+C:\Users\travi\source\repos\Searchbot\Searchbot\bin\Debug\Searchbot.exe
+C:\Users\travi\source\repos\Searchbot\Searchbot\bin\Debug\Searchbot.pdb
+C:\Users\travi\source\repos\Searchbot\Searchbot\obj\Debug\Searchbot.Properties.Resources.resources
+C:\Users\travi\source\repos\Searchbot\Searchbot\obj\Debug\Searchbot.csproj.GenerateResource.cache
+C:\Users\travi\source\repos\Searchbot\Searchbot\obj\Debug\Searchbot.csproj.CoreCompileInputs.cache
+C:\Users\travi\source\repos\Searchbot\Searchbot\obj\Debug\Searchbot.exe
+C:\Users\travi\source\repos\Searchbot\Searchbot\obj\Debug\Searchbot.pdb
+C:\Users\travi\source\repos\Searchbot\Searchbot\obj\Debug\Searchbot.Form1.resources
+C:\Users\travi\source\repos\Searchbot\Searchbot\obj\Debug\Searchbot.csprojAssemblyReference.cache
